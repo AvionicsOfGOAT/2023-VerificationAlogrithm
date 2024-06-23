@@ -1,5 +1,5 @@
 # 2023 GOAT [Verification of Algorithm]
-This code repository is designed to demonstrate the Algoritm of [Parachute deployment with Falling count] and [Z-score Outlier detection].
+This code repository is designed to demonstrate the Algoritm of <b>[Parachute deployment with Falling count]<b> and <b>[Z-score Outlier detection]<b>.
 
 <br>
 
