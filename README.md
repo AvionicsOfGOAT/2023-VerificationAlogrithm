@@ -36,7 +36,7 @@ https://github.com/r-spacex/SpaceX-API
 ![alt-text](https://github.com/AvionicsOfGOAT/2023_VerificationAlogrithm_ParachuteDeployment/blob/main/image/falling_count.png)
 
 CRS-12 데이터를 사용하여 최고 고도 도달 후, 사출까지 걸린 시간 A와, GOAT 로켓 스펙을 입력하여 openrocket에서 얻은 Apogee를 활용하여 계산
-Falling count 13 으로 설정 시 예상되는 첫 번째 Deploy 시간은 9.501이다.
+Falling count 13 으로 설정 시 예상되는 첫 번째 Deploy 시간은 9.501s 이다.
 
 ### 2. Z-score outlier detection algorithm
 
