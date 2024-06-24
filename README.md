@@ -1,10 +1,10 @@
 # 2023 GOAT [Verification of Algorithm]
-This code repository is designed to demonstrate the Algoritm of <b>[Parachute deployment with Falling count]<b> and <b>[Z-score Outlier detection]<b>.
+This code repository is designed to demonstrate the algoritms of <b>[Parachute deployment with Falling count]<b> and <b>[Z-score Outlier detection]<b>.
 
 <br>
 
 ## Algorithm for Verification
-### 1. Falling count alogorithm
+### 1. Falling count algorithm
 - script name: F.C_parachute_deployment<br>
 - purpose: 로켓의 최대 고도(Apogee) 도달 지점을 찾아 적절한 시간에 낙하산을 사출한다. <br>
 - Algorithm logic: 적절한 윈도우 수를 찾아 moving average 를 사용하여 falling count를 세고, 사출한다.<br>
