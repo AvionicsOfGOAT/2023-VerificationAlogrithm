@@ -1,5 +1,5 @@
 # 2023 GOAT [Verification of Algorithm]
-This code repository is designed to demonstrate the algoritms of <b>[Parachute deployment with Falling count]<b> and <b>[Z-score Outlier detection]<b>.
+This code repository is designed to demonstrate the algoritms of <b>[Parachute Deployment with Falling Count]<b> and <b>[Z-score Outlier Detection]<b>.
 
 <br>
 
@@ -31,7 +31,7 @@ https://github.com/r-spacex/SpaceX-API
 <br>
 
 ## Result
-### 1. Falling count alogorithm
+### 1. Falling count algorithm
 
 ![alt-text](https://github.com/AvionicsOfGOAT/2023_VerificationAlogrithm_ParachuteDeployment/blob/main/image/falling_count.png)
 
